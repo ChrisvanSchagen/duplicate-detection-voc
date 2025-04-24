@@ -1,2 +1,4 @@
 # Ignore raw text data files
-data
+data/TF-IDF grouped similar documents
+data/txt_preprocessed
+data/embeddings
