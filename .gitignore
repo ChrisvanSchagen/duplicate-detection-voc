@@ -1,5 +1,7 @@
 # Ignore raw text data files
-data/TF-IDF grouped similar documents
-data/txt_preprocessed
+data/BiLSTM
+data/documents_tokenized
 data/embeddings
+data/Hybrid
+data/TF-IDF
 data/txt
